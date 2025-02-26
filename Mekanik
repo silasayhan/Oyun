@@ -1,0 +1,5 @@
+hareket(x, y)
+{
+a = x
+b = x
+}
